@@ -1989,7 +1989,7 @@ input, select, textarea {
 
 			.gallery .group .span-0-5 {
 				width: 16.66666%;
-				heigth: 16.66666%;
+				height: 16.66666%;
 			}
 
 			.gallery .group .span-0-75 {
@@ -2386,7 +2386,7 @@ input, select, textarea {
 
 		.panel .span-0-5 {
 			width: 5rem;
-			heigth: 5rem;
+			height: 5rem;
 		}
 
 		.panel .span-0-75 {
@@ -2559,6 +2559,7 @@ input, select, textarea {
 
 		.panel.small .span-0-5, .panel.medium .span-0-5, .panel.large .span-0-5 {
 			width: 5%;
+			height: 5%;
 		}
 
 		.panel.small .span-0-75, .panel.medium .span-0-75, .panel.large .span-0-75 {
