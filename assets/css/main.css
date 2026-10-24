@@ -292,7 +292,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: rgba(217, 167, 90, 0.75);
+		color: rgba(255, 255, 255, 0.75);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 1rem;
 		font-weight: 300;
@@ -325,6 +325,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 1.5rem 0;
+		color: rgba(217, 167, 90, 0.75);
 	}
 
 		body.is-ie p {
