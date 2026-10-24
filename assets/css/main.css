@@ -2195,8 +2195,10 @@ input, select, textarea {
 		}
 
 			.panel > *.color0 {
-				background-image: url("../../images/overlay.png"), linear-gradient(30deg, #AD4043 50%, #945C00 70%, #ffe4b4);
-				background-size: 128px 128px, auto;
+				background-image: url('../../images/pic03.jpg');
+  				background-repeat: no-repeat;
+ 				background-attachment: fixed; 
+  				background-size: cover;
 			}
 
 			.panel > *.color1 {
