@@ -325,7 +325,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 1.5rem 0;
-		color: rgb(240, 235, 227);
+		color: rgba(240, 235, 227,1);
 	}
 
 		body.is-ie p {
