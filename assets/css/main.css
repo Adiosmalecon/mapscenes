@@ -2559,7 +2559,6 @@ input, select, textarea {
 
 		.panel.small .span-0-5, .panel.medium .span-0-5, .panel.large .span-0-5 {
 			width: 5%;
-			height: 5%;
 		}
 
 		.panel.small .span-0-75, .panel.medium .span-0-75, .panel.large .span-0-75 {
