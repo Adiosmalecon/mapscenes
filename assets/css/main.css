@@ -2715,8 +2715,10 @@ input, select, textarea {
 		}
 
 		.panel.color0 {
-			background-image: url("../../images/overlay.png"), linear-gradient(45deg, #726193 20%, #e37b7c 60%, #ffe4b4);
-			background-size: 128px 128px, auto;
+			background-image: url('../../images/pic03.jpg');
+  			background-repeat: no-repeat;
+ 			background-attachment: fixed; 
+  			background-size: cover;
 		}
 
 		.panel.color1 {
